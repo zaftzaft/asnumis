@@ -1,0 +1,16 @@
+{
+  "name": "asnumis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asnumis.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "asnumis": "./asnumis.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
