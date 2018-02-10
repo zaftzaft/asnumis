@@ -12,3 +12,9 @@ AS Number lookup tool
 $ asnumis 2907
 SINET-AS Research Organization of Information and Systems, National Institute of Informatics, JP
 ```
+
+
+## update asn.json
+```
+sh init.sh
+```
